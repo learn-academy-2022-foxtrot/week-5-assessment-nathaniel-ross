@@ -14,13 +14,13 @@ Researched answer:
 
 2. What does the acronym CRUD stand for?
 
-Your answer:
+Your answer: Create, Read, Update, Delete
 
 Researched answer:
 
 3. What is Ruby on Rails?
 
-Your answer:
+Your answer: Ruby on Rails (or just Rails) 
 
 Researched answer:
 
