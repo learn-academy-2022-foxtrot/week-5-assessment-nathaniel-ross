@@ -39,6 +39,7 @@ p state_selector(us_states)
 # end
 
 
+
 # --------------------3a) Create a class called Bike that is initialized with a model, wheels, and current_speed. The default number of wheels is 2. The current_speed should start at 0. Create a bike_info method that returns a sentence with all the data from the bike object.
 
 class Bike

@@ -14,7 +14,7 @@ Researched answer:
 
 2. What does the acronym CRUD stand for?
 
-Your answer: Create, Read, Update, Delete
+Your answer: Create, Read, Update, Delete (destroy)
 
 Researched answer:
 
