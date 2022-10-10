@@ -10,9 +10,17 @@ letter_o = 'o'
 letter_t = 't'
 # Expected output: ['tea', 'water', 'soda water']
 
-def letter_checker (arr)
-    arr.contain?{ |val| }
+def letter_checker (arr, letter)
+    arr.filter { |arr| arr.include? letter }
+    # using .filter on the array in a block {} to return a modified array
+    # .include? to check if the string includes our specific letter
 end
+
+p letter_checker(beverages_array, letter_o)
+    # ["coffee", "soda water"]
+p letter_checker(beverages_array, letter_t)
+    # ["tea", "water", "soda water"]
+
 
 # -------------------2) Create a method that takes in a hash and returns one array with all the hash values at their own index and in alphabetical order. No nested arrays. Use the test variable provided.
 # HINT: Google 'ruby get rid of nested arrays'
